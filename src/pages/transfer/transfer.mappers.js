@@ -2,7 +2,6 @@ export const mapTransferFromVmToApi = (transfer) => {
   const transferDate = new Date(
     transfer.year + '-' + transfer.month + '-' + transfer.day
   ).toLocaleDateString();
-  console.log({ transferDate });
 
   return {
     accountId: transfer.accountId,
