@@ -137,37 +137,26 @@
   ],
   "transfer": [
     {
-      "accountId": "2",
-      "iban": "SE20 0082 4409 3801 2008 1890",
+      "accountId": "1",
+      "iban": "AD67 6001 9476 0170 591F 8154",
       "name": "Juan Perez Perez",
-      "amount": "250",
-      "concept": "Pago factura taller",
-      "notes": "Pago por anticipado",
-      "date": "2020-09-29T12:04:00.278Z",
+      "amount": "200",
+      "concept": "Pago reparación coche",
+      "notes": "Pago anticipado",
+      "date": "10/2/2021",
       "email": "juan@taller.com",
       "id": 1
     },
     {
-      "accountId": "2",
-      "iban": "AL80 7007 1884 0780 3460 26F0 8O01",
-      "name": "Antonio Gonzalez Gonzalez",
-      "amount": "256",
-      "concept": "Reparación instalacion electrica",
-      "notes": "Ultimo plazo",
-      "date": "2020-09-30T12:05:00.278Z",
-      "email": "antonio@taller.com",
-      "id": 2
-    },
-    {
       "accountId": "1",
-      "iban": "SE20 0082 4409 3801 2008 1890",
-      "name": "José Lopez Lopez",
+      "iban": "AD67 6001 9476 0170 591F 8154",
+      "name": "Francisco Lopez",
       "amount": "120",
-      "concept": "Factura telefono",
-      "notes": "Pago por adelantado",
-      "date": "2020-10-15T12:07:10.849Z",
-      "email": "jose@telefonica.net",
-      "id": 3
+      "concept": "Factura de electricidad",
+      "notes": "Importe total de la factura",
+      "date": "14/1/2021",
+      "email": "fran@electricidad.es",
+      "id": 2
     }
   ]
 }
