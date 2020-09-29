@@ -1,8 +1,2 @@
 /.cache
 /dist
-/node_modules
-/node_module/@babel
-/.vscode
-.editorconfig
-.prettierrc
-/server/node_modules
